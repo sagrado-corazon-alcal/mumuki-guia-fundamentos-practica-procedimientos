@@ -1,4 +1,4 @@
-extras:
+examples:
  - initial_board: |
      GBB/1.0
      size 9 2
