@@ -14,7 +14,7 @@ examples:
      head 3 0
 
    arguments:
-     - Oeste
+     - Este
 
  - initial_board: |
      GBB/1.0
