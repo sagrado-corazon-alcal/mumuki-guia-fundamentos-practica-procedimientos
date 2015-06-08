@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: PonerPuntos3
+  inspection: HasUsage:PonerADistancia3
+- binding: PonerPuntos3
+  inspection: HasUsage:Mover3

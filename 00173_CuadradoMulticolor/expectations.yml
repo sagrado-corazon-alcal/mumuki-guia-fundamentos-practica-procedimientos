@@ -1,0 +1,4 @@
+---
+expectations:
+- binding: PonerCuadradoMulticolor4
+  inspection: HasUsage:PonerLineaMulticolor4
