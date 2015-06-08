@@ -1,5 +1,7 @@
 check_head_position: true
 
+subject: PonerCuadradoMulticolor4
+
 examples:
  - initial_board: |
      GBB/1.0

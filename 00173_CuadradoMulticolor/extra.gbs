@@ -1,7 +1,3 @@
-program {
-    PonerCuadradoMulticolor4()
-}
-
 procedure PonerUnaDeCada() {
     Poner(Rojo) ; Poner(Verde) ; Poner(Azul) ; Poner(Negro)
 }

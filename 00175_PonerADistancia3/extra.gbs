@@ -1,7 +1,3 @@
-program {
-    PonerADistancia3(Verde, Sur)
-}
-
 procedure Mover3(direccion) {
     Mover(direccion) ; Mover(direccion) ; Mover(direccion)
 }
