@@ -1,0 +1,4 @@
+---
+expectations:
+- binding: MoverOeste3
+  inspection: Not:HasWhile
