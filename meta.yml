@@ -1,8 +1,10 @@
 ---
 name: Práctica Procedimientos
 locale: es
+type: practice
+beta: false
 language: gobstones
-original_id_format: '%05d'
+id_format: '%05d'
 order:
 - 170
 - 171
