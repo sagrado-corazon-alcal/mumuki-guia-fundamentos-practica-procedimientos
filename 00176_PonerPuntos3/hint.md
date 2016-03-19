@@ -1,1 +1,1 @@
-Parece un buen momento para usar `Mover3` y `PonerADistancia3`, ¿no?
+Parece un buen momento para usar `PonerADistancia3`, ¿no?
