@@ -1,0 +1,10 @@
+---
+expectations:
+- binding: Mover3
+  inspection: HasBinding
+- binding: PonerADistancia3
+  inspection: HasArity:2
+- binding: PonerADistancia3
+  inspection: HasUsage:Mover3
+- binding: Mover3
+  inspection: HasArity:1

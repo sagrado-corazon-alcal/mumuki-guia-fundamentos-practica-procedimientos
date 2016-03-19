@@ -1,3 +1,0 @@
-procedure Mover3(direccion) {
-    Mover(direccion) ; Mover(direccion) ; Mover(direccion)
-}
