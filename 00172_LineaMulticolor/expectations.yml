@@ -1,6 +1,0 @@
----
-expectations:
-- binding: PonerLineaMulticolor4
-  inspection: HasUsage:PonerUnaDeCada
-- binding: PonerLineaMulticolor4
-  inspection: HasUsage:MoverOeste3
