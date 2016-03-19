@@ -8,4 +8,4 @@ debe ser de un color diferente (Rojo, Verde, Azul y Negro).
 
 Ejemplo de un jardín de 5x5:
 
-![Jardín de 5x5](http://i.imgur.com/ffYoQEZ.png)
+![jardin-5x5.png](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-practica-procedimientos/master/images/jardin-5x5.png)
