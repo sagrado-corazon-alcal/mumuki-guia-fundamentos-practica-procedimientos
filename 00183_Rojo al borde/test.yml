@@ -14,7 +14,7 @@ examples:
      cell 0 2 Rojo 1
      head 0 2
      
-- title: 'Tablero de 5x4'
+ - title: 'Tablero de 5x4'
  
    initial_board: |
      GBB/1.0
