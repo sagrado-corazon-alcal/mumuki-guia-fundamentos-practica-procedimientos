@@ -1,4 +1,4 @@
-heck_head_position: true
+check_head_position: true
 
 examples:
  - title: 'Tablero de 2x3 con el cabezal abajo a la izquierda'
