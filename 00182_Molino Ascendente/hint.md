@@ -1,0 +1,1 @@
+Puede serte muy útil que hagas **un solo** procedimiento que dibuje un "aspa" del molino, y que _tenga un parámetro_, la **dirección** hacia donde dibujarla. 

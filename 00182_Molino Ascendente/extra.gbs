@@ -1,0 +1,5 @@
+procedure Mover3(d){
+  Mover(d)
+  Mover(d)
+  Mover(d)
+}
