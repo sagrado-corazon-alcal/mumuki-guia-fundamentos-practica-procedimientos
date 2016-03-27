@@ -4,3 +4,5 @@ expectations:
   inspection: HasUsage:PonerADistancia3
 - binding: PonerPuntos3
   inspection: HasArity:1
+- binding: PruebaProc
+  inspection: Not:HasBinding
