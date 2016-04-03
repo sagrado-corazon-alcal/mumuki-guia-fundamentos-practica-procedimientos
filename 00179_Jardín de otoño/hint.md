@@ -1,1 +1,1 @@
-Pensá primero cómo resolver el problema de dibujar un macetero de un color, y con eso más algún `IrAlBorde` dibujá el jardín. No te asustes si no te sale al primer intento, ¡ningún gatito muere por enviar código para probar! :smile_cat:
+Pensá primero cómo resolver el problema de dibujar un macetero de un color, y con eso más algún `IrAlBorde` dibujá el jardín.
