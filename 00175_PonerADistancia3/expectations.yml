@@ -2,4 +2,3 @@
 expectations:
 - binding: PonerADistancia3
   inspection: HasArity:2
-  verb: 
