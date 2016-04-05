@@ -14,12 +14,12 @@ examples:
      cell 0 2 Rojo 1
      head 0 2
      
- - title: 'Tablero de 5x4'
+ - title: 'Tablero de 5x4 con el cabezal en el medio'
  
    initial_board: |
      GBB/1.0
      size 5 4
-     head 0 3
+     head 2 2
     
    final_board: |
      GBB/1.0
