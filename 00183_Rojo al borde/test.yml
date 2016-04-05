@@ -1,5 +1,7 @@
 check_head_position: true
 
+subject: RojoAlBorde
+
 examples:
  - title: 'Tablero de 2x3 con el cabezal abajo a la izquierda'
    initial_board: |

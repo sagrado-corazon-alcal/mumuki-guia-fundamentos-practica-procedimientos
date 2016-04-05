@@ -1,0 +1,4 @@
+---
+expectations:
+- binding: RojoAlBorde
+  inspection: HasUsage:IrAlBorde
