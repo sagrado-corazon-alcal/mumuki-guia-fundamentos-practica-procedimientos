@@ -2,27 +2,23 @@ check_head_position: true
 
 examples:
  - title: 'Tablero de 2x3 con el cabezal abajo a la izquierda'
- 
    initial_board: |
      GBB/1.0
      size 2 3
      head 0 0
-    
    final_board: |
      GBB/1.0
      size 2 3
      cell 0 2 Rojo 1
      head 0 2
      
- - title: 'Tablero de 5x4 con el cabezal en el medio'
- 
+ - title: 'Tablero de 3x3 con el cabezal en el medio'
    initial_board: |
      GBB/1.0
-     size 5 4
-     head 2 2
-    
+     size 3 3
+     head 1 1
    final_board: |
      GBB/1.0
-     size 5 4
-     cell 0 3 Rojo 1
-     head 0 3
+     size 3 3
+     cell 0 2 Rojo 1
+     head 0 2
