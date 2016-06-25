@@ -1,0 +1,8 @@
+procedure Mover3(direccion) {
+    Mover(direccion) ; Mover(direccion) ; Mover(direccion)
+}
+
+procedure PonerADistancia3(color, direccion) {
+    Mover3(direccion)
+    Poner(color)
+}
