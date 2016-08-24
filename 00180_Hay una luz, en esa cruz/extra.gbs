@@ -1,8 +1,26 @@
-procedure Mover3(direccion) {
-    Mover(direccion) ; Mover(direccion) ; Mover(direccion)
-}
-
 procedure PonerADistancia3(color, direccion) {
     Mover3(direccion)
     Poner(color)
+}
+
+procedure Mover3(direccion) {
+    Mover(direccion)
+    Mover(direccion)
+    Mover(direccion)
+}
+
+procedure PonerPuntos3(color) {
+  Poner(color)
+  PonerADistancia3(color, Este)
+  PonerADistancia3(color, Este)
+  Volver()
+}
+
+procedure Volver() {
+  Mover(Oeste)
+  Mover(Oeste)
+  Mover(Oeste)
+  Mover(Oeste)
+  Mover(Oeste)
+  Mover(Oeste)
 }
