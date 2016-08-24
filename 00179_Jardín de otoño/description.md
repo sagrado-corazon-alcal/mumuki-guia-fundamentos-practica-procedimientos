@@ -1,4 +1,4 @@
-Llegó el otoño y al tío Esteban se le ocurrió armar un jardín en la terraza... de nuevo. Como se enteró que vos estás aprendiendo a programar, te pidió que le hagas un programa en Gobstones que lo ayude a maquetar su nuevo jardín, con las siguientes condiciones:
+Llegó el otoño y al tío Esteban se le ocurrió armar un jardín en la terraza... de nuevo. Como se enteró que vos estás "en esa cosa de la programación", te pidió que le hagas un programa en Gobstones que lo ayude a maquetar su nuevo jardín, con las siguientes condiciones:
 
 - cada **macetero** es un cuadrado de 2x2 (o sea que ocupa en total 4 celdas);
 - como todavía no sabe de qué tamaño va a ser el jardín, el programa tiene que funcionar **para cualquier tablero** lo suficientemente grande;
