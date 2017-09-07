@@ -1,4 +1,4 @@
-Escribí un procedimiento `PonerLineaMulticolor4` que dibuje una **linea multicolor** de cuatro celdas hacia el _Este_: 
+Escribí un procedimiento `PonerLineaMulticolor4` que dibuje una **línea multicolor** de cuatro celdas hacia el _Este_: 
 
 ![LineaMulticolor](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-practica-procedimientos/master/images/linea-multicolor.png)
 

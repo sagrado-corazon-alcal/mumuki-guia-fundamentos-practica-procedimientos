@@ -1,6 +1,6 @@
 Ya vimos muchas cosas. ¡Es hora de practicar! :muscle:
 
-Muchos de los ejercicios que siguen son un tanto complejos, y vas a necesitar definir varios **procedimientos** para resolverlos. Nuestro consejo es que **pienses la estrategia** que vas a usar, y recién después te pongas a programar.
+Muchos de los ejercicios que siguen son un tanto complejos, y vas a necesitar definir varios **procedimientos** para resolverlos. Nuestro consejo es que **pienses la estrategia** que vas a usar y recién después te pongas a programar.
 
 _Pero, ¿cómo pienso la estrategia?_ :scream:
 <br>
