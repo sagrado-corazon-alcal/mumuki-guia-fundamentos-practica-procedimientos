@@ -1,4 +1,4 @@
-Vamos ahora con una versión recargada de `PonerPuntos3`, que claramente se va a llamar `PonerPuntos3Recargado`.
+Vamos ahora con una versión recargada de `PonerPuntos3` que, claramente, se va a llamar `PonerPuntos3Recargado`.
 
 ¿En qué cambia? En que ahora tiene que poner primero 1 bolita, luego 2 y finalmente 3; ojo con eso, tenés que respetar **estrictamente** la cantidad de bolitas que te pedimos, si no tu procedimiento no hará lo correcto.
 
