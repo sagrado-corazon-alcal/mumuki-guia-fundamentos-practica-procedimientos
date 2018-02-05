@@ -2,4 +2,9 @@ Escribí un procedimiento `PonerADistancia3` que reciba un _color_ y una _direcc
 
 Por ejemplo, si ejecutáramos `PonerADistancia3(Rojo, Norte)` partiendo desde el origen, deberíamos ver este tablero final:
 
-![PonerADistancia3](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-procedimientos/master/images/poner-a-distancia-3.png)
+<gs-board>
+  GBB/1.0
+    size 4 4
+    cell 0 3 Rojo 1
+    head 0 3
+</gs-board>
