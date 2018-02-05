@@ -6,6 +6,26 @@ Llegó el otoño y al tío Esteban se le ocurrió armar un jardín en la terraza
 
 Como ya sabés, el tío es un poco quisquilloso, así que tenés que respetar el orden de los colores que él eligió. Te dejamos un ejemplo de cómo debería verse el jardín, asumiendo que tiene 5 celdas de ancho y 5 de largo.
 
-![jardin-5x5.png](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-practica-procedimientos/master/images/jardin-5x5.png)
+<gs-board>
+  GBB/1.0
+    size 5 5
+    cell 0 0 Rojo 1
+    cell 0 1 Rojo 1
+    cell 0 3 Negro 1
+    cell 0 4 Negro 1
+    cell 1 0 Rojo 1
+    cell 1 1 Rojo 1
+    cell 1 3 Negro 1
+    cell 1 4 Negro 1
+    cell 3 0 Azul 1
+    cell 3 1 Azul 1
+    cell 3 3 Verde 1
+    cell 3 4 Verde 1
+    cell 4 0 Azul 1
+    cell 4 1 Azul 1
+    cell 4 3 Verde 1
+    cell 4 4 Verde 1
+    head 3 0
+</gs-board>
 
 El cabezal empieza en el origen.
