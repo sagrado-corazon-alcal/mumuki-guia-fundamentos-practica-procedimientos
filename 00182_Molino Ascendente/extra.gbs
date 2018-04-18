@@ -1,5 +1,5 @@
-procedure Mover3(d){
-  Mover(d)
-  Mover(d)
-  Mover(d)
+procedure Mover3(direccion){
+  Mover(direccion)
+  Mover(direccion)
+  Mover(direccion)
 }
