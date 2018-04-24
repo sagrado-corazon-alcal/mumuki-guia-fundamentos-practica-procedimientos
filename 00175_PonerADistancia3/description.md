@@ -1,4 +1,4 @@
-Escribí un procedimiento `PonerADistancia3` que reciba un _color_ y una _direccion_, y ponga una pelotita de ese color 3 lugares en la dirección especificada, partiendo desde la celda inicial (que no importa cuál es).
+> Escribí un procedimiento `PonerADistancia3` que reciba un _color_ y una _direccion_, y ponga una pelotita de ese color 3 lugares en la dirección especificada, partiendo desde la celda inicial (que no importa cuál es).
 
 Por ejemplo, si ejecutáramos `PonerADistancia3(Rojo, Norte)` partiendo desde el origen, deberíamos ver este tablero final:
 
