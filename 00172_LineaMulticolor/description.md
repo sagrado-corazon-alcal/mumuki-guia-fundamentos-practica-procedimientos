@@ -1,4 +1,4 @@
-Escribí un procedimiento `PonerLineaMulticolor4` que dibuje una **línea multicolor** de cuatro celdas hacia el _Este_: 
+> Escribí un procedimiento `PonerLineaMulticolor4` que dibuje una **línea multicolor** de cuatro celdas hacia el _Este_: 
 
 <gs-board>
  GBB/1.0
