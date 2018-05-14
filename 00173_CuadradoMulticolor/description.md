@@ -22,4 +22,4 @@
      head 0 0
 </gs-board>
 
-Usá sin definir el procedimiento `PonerLineaMulticolor4` que escribiste antes, ya lo incluimos en la Biblioteca por vos. Dicho de otra manera: no tenés que volver a escribir `procedure PonerLineaMulticolor4() ...`, simplemente usarlo como si fuera una primitiva que ya viene en el lenguaje, es decir, un procedimiento que nos viene de regalo :gift: .
+Usá sin definir el procedimiento `PonerLineaMulticolor4` que escribiste antes, ya lo incluimos en la Biblioteca por vos. Dicho de otra manera: no tenés que volver a escribir `procedure PonerLineaMulticolor4() ...`, simplemente usarlo como si fuera una primitiva que ya viene en el lenguaje, es decir, un procedimiento que nos viene de regalo :gift:.
