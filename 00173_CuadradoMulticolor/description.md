@@ -22,4 +22,4 @@
      head 0 0
 </gs-board>
 
-Usá sin definir el procedimiento `PonerLineaMulticolor4` que escribiste antes, ya lo incluimos en la Biblioteca por vos. En criollo: no tenés que volver a escribir `procedure PonerLineaMulticolor4() ...`. Simplemente usalo como si fuera una primitiva que ya viene en el lenguaje, que si recordamos lo mencionado en guías anteriores, es un procedimiento que nos viene de regalo :gift:.
+Usá sin definir el procedimiento `PonerLineaMulticolor4` que escribiste antes, ya lo incluimos en la Biblioteca por vos como si fuera una primitiva. En criollo: no tenés que volver a escribir `procedure PonerLineaMulticolor4() ...`, viene de regalo :gift:.
