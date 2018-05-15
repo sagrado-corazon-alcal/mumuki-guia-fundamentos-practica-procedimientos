@@ -1,4 +1,4 @@
-IrAlBorde(Este)` haría esto:
+`IrAlBorde(Este)` haría esto:
 
 <gs-board>   
   GBB/1.0
